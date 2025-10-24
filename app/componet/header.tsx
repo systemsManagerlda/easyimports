@@ -32,8 +32,8 @@ export default function Header() {
 
           {/* Logo */}
           <Link href="/" className="logo d-flex align-items-center">
-            {/* <img src="assets/img/logo.webp" alt="Easy Imports Mozambique" /> */}
-            <h1 className="sitename">E.I.M</h1>
+            <img src="assets/img/logo/EasyLogo.png" alt="Easy Imports Mozambique" />
+            {/* <h1 className="sitename">E.I.M</h1> */}
           </Link>
 
           {/* Navigation */}

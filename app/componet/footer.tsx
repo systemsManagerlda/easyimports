@@ -18,7 +18,7 @@ export default function Footer() {
             {/* Sobre a empresa */}
             <div className="col-lg-5 col-md-12 footer-about">
               <Link href="/" className="logo d-flex align-items-center">
-                <span className="sitename">Easy Imports Mozambique</span>
+                <img src="assets/img/logo/EasyLogo.png" alt="Easy Imports Mozambique" />
               </Link>
               <p>
                 A Easy Imports Mozambique é uma empresa moçambicana especializada em
