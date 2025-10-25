@@ -73,7 +73,7 @@ export default function ContactSection() {
                 </div>
                 <div className="contact-text">
                   <h4>Localização</h4>
-                  <p>Bairro do Aeroporto A, Rua do Camões, nº 318, Maputo – Moçambique</p>
+                  <p>Bairro do Aeroporto A, Rua do Camões, nº 181, Maputo – Moçambique</p>
                 </div>
               </div>
 
@@ -93,7 +93,7 @@ export default function ContactSection() {
                 </div>
                 <div className="contact-text">
                   <h4>Telefone</h4>
-                  <p>+258 86 840 8600</p>
+                  <p>21 467 387 / +258 86 840 8600</p>
                 </div>
               </div>
 

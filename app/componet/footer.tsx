@@ -59,10 +59,10 @@ export default function Footer() {
             {/* Contactos */}
             <div className="col-lg-3 col-md-12 footer-contact text-center text-md-start">
               <h4>Contacte-nos</h4>
-              <p>Bairro do Aeroporto A, Rua do Camões, nº 318</p>
+              <p>Bairro do Aeroporto A, Rua do Camões, nº 181</p>
               <p>Maputo, Moçambique</p>
               <p className="mt-4">
-                <strong>Telefone:</strong> <span>+258 86 840 8600</span>
+                <strong>Telefone:</strong> <span>21 467 387 / +258 86 840 8600</span>
               </p>
               <p>
                 <strong>Email:</strong> <span>info.easyimportsmoz@malemiagroup.co.mz</span>
