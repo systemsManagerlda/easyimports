@@ -62,7 +62,7 @@ export default function Footer() {
               <p>Bairro do Aeroporto A, Rua do Camões, nº 181</p>
               <p>Maputo, Moçambique</p>
               <p className="mt-4">
-                <strong>Telefone:</strong> <span>21 467 387 / +258 86 840 8600</span>
+                <strong>Telefone:</strong> <span>21 467 387 | +258 86 840 8600</span>
               </p>
               <p>
                 <strong>Email:</strong> <span>info.easyimportsmoz@malemiagroup.co.mz</span>

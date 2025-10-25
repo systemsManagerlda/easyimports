@@ -14,7 +14,7 @@ export default function Header() {
               <a href="mailto:info.easyimportsmoz@malemiagroup.co.mz">info.easyimportsmoz@malemiagroup.co.mz</a>
             </i>
             <i className="bi bi-phone d-flex align-items-center ms-4">
-              <span>+258 86 840 8600</span>
+              <span>21 467 387 | +258 86 840 8600</span>
             </i>
           </div>
           <div className="social-links d-none d-md-flex align-items-center">

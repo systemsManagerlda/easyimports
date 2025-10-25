@@ -93,7 +93,7 @@ export default function ContactSection() {
                 </div>
                 <div className="contact-text">
                   <h4>Telefone</h4>
-                  <p>21 467 387 / +258 86 840 8600</p>
+                  <p>21 467 387 | +258 86 840 8600</p>
                 </div>
               </div>
 
